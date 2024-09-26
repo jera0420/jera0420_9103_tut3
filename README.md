@@ -2,8 +2,12 @@
 
 ### Imaging Technique Inspiration
 
-[The Van Gogh Starry Night animation](http://artof01.com/vrellis/works/starry_night.html)
-!(readmeImages/Screenshot_starry_night.png)
+![Starry Night by Van Gogh](readmeImages/Screenshot_starry_night.png)
+
+
+  
+[Video Animation](http://artof01.com/vrellis/works/starry_night.html)
+
 
 I went to the Van Gogh live exhibition, which was such an inspiring experience.
 I’d love to be able to do something like that for this project - to make the image move within its own patterns of stroke.
@@ -15,10 +19,11 @@ For example, to make water part of the painting Saint Georges Majeur by Claude M
 
 ### Coding Technique Exploration
 
-Something similar might be achievable by creating a 3D Perlin noise function with a for loop and low speed. This would not be interactive, but would create a cool animation and feel of immersion in the spectactor. 
+Something similar might be achievable by creating a 3D Perlin noise function with a for loop and low speed. This would not be interactive but would create a cool animation and feel of immersion in the spectator. 
 
+![Perlin Noise Demonstration](readmeImages/Screenshot_Perlin_noise_3D.png)
 [The Coding Train: Perlin Noise Field](https://youtu.be/BjoM9oKOAKY?si=qjRPBlpdbQ0_Ln8_&t=653)
 
-!(readmeImages/Screenshot_Perlin_noise_3D.png)
+
 
 
