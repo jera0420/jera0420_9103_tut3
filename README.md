@@ -1,29 +1,24 @@
-# jera0420_9103_tut3
+# **Quiz 8**
 
-My first repo!
+### Imaging Technique Inspiration
 
-# **Repo Title**
+[The Van Gogh Starry Night animation](http://artof01.com/vrellis/works/starry_night.html)
+!(readmeImages/Screenshot_starry_night.png)
 
-- Item 1
-    - Subitem 1.1
+I went to the Van Gogh live exhibition, which was such an inspiring experience.
+I’d love to be able to do something like that for this project - to make the image move within its own patterns of stroke.
 
-www.vividsydney.com
+For example, to make water part of the painting Saint Georges Majeur by Claude Monet move similar to how water does with the force of wind.
 
-![An image of a cat](https://placekitten.com/200/300)
-
-![An image of Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-
+![Saint Georges Majeur, by Claude Monet](readmeImages/Claude_Monet_Saint_Georges_majeur.jpg)
 
 
+### Coding Technique Exploration
 
-Code Block
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
-> *This is a blockquote*.
+Something similar might be achievable by creating a 3D Perlin noise function with a for loop and low speed. This would not be interactive, but would create a cool animation and feel of immersion in the spectactor. 
 
+[The Coding Train: Perlin Noise Field](https://youtu.be/BjoM9oKOAKY?si=qjRPBlpdbQ0_Ln8_&t=653)
+
+!(readmeImages/Screenshot_Perlin_noise_3D.png)
 
 
-[def]: readmeImages/​​Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg
